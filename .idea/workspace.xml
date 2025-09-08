@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="973874eb-c84b-4b21-bd9e-60772b69055b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Xander Portfolio.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/about_image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/android_icon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/apple_icon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/avatar1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/avatar2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/avatar3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/avatar4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/avatar5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/avatar6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/background.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/business_icon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/checkmark_icon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/design_icon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/happy_icon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/kizito_portfolio.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/kizito_portfolio.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/link_icon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/main_image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/portfolio1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/portfolio2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/portfolio3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/portfolio4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/portfolio5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/seo_icon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/shield_icon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/star_icon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/user_icon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/web_icon.svg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;kizito18&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/kizito18/Xander_Portfolio.git&quot;,
+    &quot;accountId&quot;: &quot;0c3b4905-bb04-4db8-8c86-4bee1c299692&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="32PdYVMsIkePwsw81omrRkbdfHu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/kizito/kobweb/Xander Portfolio&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="973874eb-c84b-4b21-bd9e-60772b69055b" name="Changes" comment="" />
+      <created>1757326188856</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1757326188856</updated>
+    </task>
+    <servers />
+  </component>
+</project>
